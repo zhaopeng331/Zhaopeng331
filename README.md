@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Henny+Penny&size=60&center=true&vCenter=true&width=700&height=100&duration=7000&color=9111F7&lines=Knowledge+is+light%2C+Ignorance+is+darkness.;Always+look+forward+and+never+look+back.;Higher+and+Faster;I+am+the+master+of+my+destiny" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Henny+Penny&size=60&center=true&vCenter=true&width=400&height=100&duration=7000&color=9111F7&lines=Knowledge+is+light%2C+Ignorance+is+darkness.;Always+look+forward+and+never+look+back.;Higher+and+Faster;I+am+the+master+of+my+destiny" alt="Title"></img>
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/sasuke031026/sasuke031026/blob/main/wave.gif" alt="" width="50px" /> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/sasuke031026/sasuke031026/blob/main/sleeping.gif" width="400" align="right" />
+- :credit_card: I am a **silent developer** <img src="https://gifer.com/en/JXA0" width="400" align="right" />
 - :books: My major is **All-Around Develop**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
@@ -32,15 +32,15 @@
 
 <div>
 	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/BigBen/blob/main/Gmail.svg" />
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;benjamin199551@gmail.com
+		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
+	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potter0525james@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Telegram.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/silentlife0105
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Blockchain_Admiror
 	</h5>
 	<h5>
 		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Skype.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.1596068230a91620
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.cdaf2d007af9b1fe
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Githbu.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/sasuke031026
@@ -49,7 +49,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Silence Developer of Galaxy
+  &copy; 2022 Sasuke Uchiha of Galaxy
 </div>
 
 ------
