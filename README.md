@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Henny+Penny&size=60&center=true&vCenter=true&duration=7000&color=9111F7&lines=Knowledge+is+light%2C+Ignorance+is+darkness.;Always+look+forward+and+never+look+back.;Higher+and+Faster;I+am+the+master+of+my+destiny" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Henny+Penny&size=60&center=true&vCenter=true&width=700&height=100&duration=7000&color=9111F7&lines=Knowledge+is+light%2C+Ignorance+is+darkness.;Always+look+forward+and+never+look+back.;Higher+and+Faster;I+am+the+master+of+my+destiny" alt="Title"></img>
 </div>
 
 <p align="center">
