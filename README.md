@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/sasuke031026/sasuke031026/blob/main/wave.gif" alt="" width="50px" /> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://i.gifer.com/fetch/w300-preview/ae/ae3e28761140fbd1ad80e282f271664d.gif" width="400" align="right" />
+- :credit_card: I am a **silent developer** <img src="https://i.gifer.com/GEKm.gif" width="400" align="right" />
 - :books: My major is **All-Around Develop**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
