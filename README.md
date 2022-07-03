@@ -2,7 +2,7 @@
   
 </div
 
-## <img src="https://github.com/sasuke031026/sasuke031026/blob/main/wave.gif" alt="" width="10px" /> About Me
+## About Me
 
 - :credit_card: I am a **silent developer** <img src="https://github.com/Sasuke031026/Sasuke031026/blob/main/Cdt.gif" width="400" align="right" />
 - :books: My major is **All-Around Develop**
