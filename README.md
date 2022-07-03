@@ -1,10 +1,6 @@
 <div align="center">
   
-</div>
-
-<p align="center">
-	<img align="center" src="https://www.pngitem.com/pimgs/m/616-6164272_all-programming-languages-logo-hd-png-download.png" style="width: 100%" />
-</p>
+</div
 
 ## <img src="https://github.com/sasuke031026/sasuke031026/blob/main/wave.gif" alt="" width="50px" /> About Me
 
