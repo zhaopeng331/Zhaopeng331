@@ -28,7 +28,7 @@
 <div>
 	<h5>
 		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potter0525james@gmail.com
+	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sasuke031026@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Telegram.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Blockchain_Admiror
