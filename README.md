@@ -9,7 +9,7 @@
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love Computer, Game and Sleeping.
 - :monocle_face: I'm interested in sleeping, coding and watching film
-- :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** 
+- :sunglasses: My quote is ***"Always forward, never look back."*** 
 <br/>
 <br/>
 <table>
