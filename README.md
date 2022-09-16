@@ -4,10 +4,10 @@
 
 ## About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/Sasuke031026/Sasuke031026/blob/main/hi.gif" width="400" align="right" />
-- :books: My major is **All-Around Develop**
+- :credit_card: I am a **normal developer** <img src="https://github.com/Sasuke031026/Sasuke031026/blob/main/hi.gif" width="400" align="right" />
+- :books: My major is **Full-Stack and Blockchain**
 - :earth_asia: I'm living now in **ASIA**
-- :sweat_smile: I love computer, so I want to know all technologies.
+- :sweat_smile: I love Computer, Game and Sleeping.
 - :monocle_face: I'm interested in sleeping, coding and watching film
 - :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** 
 <br/>
