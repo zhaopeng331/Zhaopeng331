@@ -118,12 +118,6 @@
 
 > GitHub Statistics
 
-<p align="center">
-    <a href="https://github.com/Sasuke031026">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sasuke031026&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sasuke031026&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-</p>
 <div>
 	<h5>
 		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
@@ -140,6 +134,13 @@
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/sasuke031026
 	</h5>
 <div>
+<br/>
+<p align="center">
+    <a href="https://github.com/Sasuke031026">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sasuke031026&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sasuke031026&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
