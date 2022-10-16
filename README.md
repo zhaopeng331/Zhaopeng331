@@ -25,7 +25,20 @@
 </table>
 
 ## <img src='https://github.com/sasuke031026/sasuke031026/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
+<br/>
+<br/>
+<br/>
 
+<h1 align="center">My Github Status </h1>
+
+> GitHub Statistics
+
+<p align="center">
+    <a href="https://github.com/Sasuke031026">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sasuke031026&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sasuke031026&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
 <div>
 	<h5>
 		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
@@ -49,7 +62,7 @@
 </div>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
+<br/>
 <div>
 	<a href="https://github.com/Sasuke031026/Sasuke031026"><img alt="Sasuke031026's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Sasuke031026&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 </div>
