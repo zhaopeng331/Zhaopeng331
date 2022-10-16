@@ -27,8 +27,6 @@
 ## <img src='https://github.com/sasuke031026/sasuke031026/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 <br/>
 <br/>
-<br/>
-
 <h1 align="center">My Github Status </h1>
 
 > GitHub Statistics
