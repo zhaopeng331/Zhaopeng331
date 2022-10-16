@@ -4,7 +4,7 @@
 
 ## About Me
 
-- :credit_card: I am a **normal developer** <img src="https://github.com/Sasuke031026/Sasuke031026/blob/main/hi.gif" width="400" align="right" />
+- :credit_card: I am a **Blockchain and Full-Stack developer** <img src="https://github.com/Sasuke031026/Sasuke031026/blob/main/hi.gif" width="400" align="right" />
 - :books: My major is **Full-Stack and Blockchain**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love Computer, Game and Sleeping.
