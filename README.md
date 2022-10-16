@@ -113,10 +113,6 @@
 
 ## <img src='https://github.com/sasuke031026/sasuke031026/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 <br/>
-<br/>
-<h1 align="center">My Github Status </h1>
-
-> GitHub Statistics
 
 <div>
 	<h5>
@@ -135,6 +131,9 @@
 	</h5>
 <div>
 <br/>
+<h1 align="center">My Github Status </h1>
+
+> GitHub Statistics
 <p align="center">
     <a href="https://github.com/Sasuke031026">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sasuke031026&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
