@@ -111,20 +111,11 @@
 <br/>
 
 <div>
-	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Gmail.svg" />
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sasuke031026@gmail.com
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Telegram.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Blockchain_Admiror
-	</h5>
-	<h5>
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Skype.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.cdaf2d007af9b1fe
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/sasuke031026/sasuke031026/blob/main/Githbu.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/sasuke031026
-	</h5>
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illia.butenko89@gmail.com)
+[![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/vb1lIjfgqRjl)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia_Butenko)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/963799901332963328)
 <div>
 <br/>
 <h1 align="center">My Github Status </h1>
