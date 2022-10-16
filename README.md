@@ -128,15 +128,16 @@
     </a>
 </p>
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Sasuke Uchiha of Galaxy
-</div>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <br/>
 <div>
 	<a href="https://github.com/Sasuke031026/Sasuke031026"><img alt="Sasuke031026's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Sasuke031026&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+</div>
+<br/>
+<br/>
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2022 Sasuke Uchiha of Galaxy
 </div>
 
 ------
