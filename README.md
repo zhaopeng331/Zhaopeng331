@@ -8,10 +8,10 @@
 - :books: My major is **Full-Stack and Blockchain**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love Computer, Game and Sleeping.
-- :monocle_face: I like playing football and playing the game too. 
-- :sunglasses: My quote is ***"Always forward, never look back."*** 
-<br/>
-<br/>
+- :monocle_face: I like playing football and playing the game too.
+- :sunglasses: My quote is ***"Always forward, never look back."***
+  <br/>
+  <br/>
 <!-- <table>
   <tr>
   	<td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
