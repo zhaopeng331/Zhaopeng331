@@ -100,8 +100,10 @@
 <p align="center">
     <a href="https://github.com/zhaopeng331">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zhaopeng331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zhaopeng331&layout=compact&langs_count=8&theme=Zhaopeng331"/>
-    </a>
+
+[//]: # (      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zhaopeng331&layout=compact&langs_count=8&theme=Zhaopeng331"/>)
+    
+</a>
 </p>
 
 <p align="right">
