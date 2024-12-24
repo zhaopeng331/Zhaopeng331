@@ -118,9 +118,7 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <br/>
 
-<div>
-	<a href="https://github.com/zhaopeng331/zhaopeng331"><img alt="Zhaopeng331's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Zhaopeng331&bg_color=363636&color=ffffff&line=748f90&point=12d4ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
-</div>
+
 <br/>
 <br/>
 <div align="center">
